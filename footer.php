@@ -1,7 +1,8 @@
-<?php
-  echo"
-  <div align='center'>
-  Copyright&copy;2017 by Rewadee.com All Right Reserved.
-  </div>
-  ";
-?>
+      <div id="footer">
+        Widget News &copy; 2011. All rights reserved. <a href="admin.php">Site Admin</a>
+      </div>
+
+    </div>
+  </body>
+</html>
+
